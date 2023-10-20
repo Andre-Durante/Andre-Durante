@@ -4,7 +4,7 @@ I'm passionate about software development and building innovative solutions that
 
 ## 🏢 Current Position
 
-- Software Developer at Poppulo
+- Software Engineer at Poppulo
 
 ## 🌱 Learning Journey
 
