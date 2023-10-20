@@ -4,7 +4,7 @@ I'm passionate about software development and building innovative solutions that
 
 ## 🏢 Current Position
 
-- 💼 Software Developer at Poppulo
+- Software Developer at Poppulo
 
 ## 🌱 Learning Journey
 
@@ -18,6 +18,5 @@ I love engaging in discussions about Computer Science and JavaScript. Feel free 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/andre-durante/).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-durante&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-durante&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
